@@ -1,5 +1,5 @@
 # Portfolio Optimization Incorporating Momentum and Futures ETF Spread
-Python code that optimizes a portfolio with 4 different returns: ES futures, ZN futures, a momentum strategy on short-term treasury futures (ZT), and a spread that trades a TLT ETF/ZB futures pair.
+Python code that optimizes a portfolio with 4 different sources of returns: ES futures, ZN futures, a momentum strategy on short-term treasury futures (ZT), and a spread that trades a TLT ETF/ZB futures pair.
 
 ## ES and ZN Futures
 A widely used portfolio that seeks to optimize a trade-off between returns and risk is the 60/40 stock/bond portfolio. Initially, I used ES and ZB futures, however historically (over past 50+ years) 10-year treasuries have had a slightly higher Sharpe ratio compared to long-term treasuries. For this reason, I selected ES and ZN futures as two of the 4 assets in the portfolio.
