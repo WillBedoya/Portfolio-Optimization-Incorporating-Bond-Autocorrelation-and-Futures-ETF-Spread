@@ -1,4 +1,4 @@
-# Portfolio Optimization Incorporating Bond Auto-Correlation and Futures ETF Spread
+# Portfolio Optimization Incorporating Bond Auto-Correlation/Momentum and Futures ETF Spread
 Python code that optimizes a portfolio with 4 different sources of returns: ES futures, ZN futures, a momentum strategy on short-term treasury futures (ZT), and a spread that trades a TLT ETF/ZB futures pair.
 
 ## ES and ZN Futures
